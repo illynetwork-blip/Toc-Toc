@@ -1,0 +1,19 @@
+{
+  "name": "Toc-Toc · powered by Mikasolution",
+  "short_name": "Toc-Toc",
+  "description": "La carte de l'agent immobilier : diagnostic, prospection, historique des ventes. Chaque maison a une histoire. Frappez, entrez.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1E2A3A",
+  "theme_color": "#1E2A3A",
+  "categories": ["business", "productivity", "navigation"],
+  "icons": [
+    {"src": "icons/tt-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/tt-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/tt-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
