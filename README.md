@@ -27,6 +27,9 @@
   - Copropriétés, friches.
   - **Boîtes aux lettres par secteur** et **tournée de boîtage**.
   - **Porte-à-porte guidé par GPS** avec **suivi de pige**.
+- **Annonces**
+  - Recherche filtrée sur Leboncoin, Bien'ici, SeLoger, PAP, Logic-Immo, Figaro, Notaires, enchères, biens de l'État.
+  - Vos annonces repérées sur la carte, avec leur bannière : bouton « + Toc-Toc », partage depuis l'appli du portail, e-mails d'alerte, flux de votre logiciel d'agence.
 - **Historique des ventes**
   - Ventes notariées (DVF), prix au m² par secteur, évolution et carte des prix.
   - Résidences principales et secondaires, propriétaires et locataires (INSEE).

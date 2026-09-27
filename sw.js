@@ -1,6 +1,6 @@
 /* Toc-Toc — service worker : appli disponible hors ligne + fonds de carte déjà vus en cache.
    La version change automatiquement à chaque construction (build.py). */
-const VERSION = 'tt-1405ed9a5e';
+const VERSION = 'tt-a54fac7470';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './logo.svg', './icons/tt-icon-192.png', './icons/tt-icon-512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css'];
 const TILE_HOSTS = /data\.geopf\.fr\/wmts|tile\.openstreetmap\.org|arcgisonline\.com|opentopomap\.org|geoservices\.brgm\.fr/;
