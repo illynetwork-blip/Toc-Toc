@@ -2,7 +2,7 @@
 
 <h1 align="center">Toc-Toc</h1>
 
-<p align="center"><i>powered by Mikasolution</i><br><b>Chaque maison a une histoire. Frappez, entrez.</b></p>
+<p align="center"><i>powered by Lumerya Solution</i><br><b>Chaque maison a une histoire. Frappez, entrez.</b></p>
 
 <p align="center">
   👉 <a href="https://illynetwork-blip.github.io/Toc-Toc/"><b>Ouvrir l'application</b></a>
@@ -49,4 +49,4 @@ Ouvrez le lien ci-dessus, puis :
 
 ---
 
-© Toc-Toc · Mikasolution — tous droits réservés. Données publiques : IGN, DGFiP, ADEME, INSEE, Géorisques, Hub'Eau, BODACC, Sirene, ANAH, Cerema, OpenStreetMap.
+© Toc-Toc · Lumerya Solution — tous droits réservés. Données publiques : IGN, DGFiP, ADEME, INSEE, Géorisques, Hub'Eau, BODACC, Sirene, ANAH, Cerema, OpenStreetMap.
