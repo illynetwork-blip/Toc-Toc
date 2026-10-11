@@ -12,7 +12,7 @@
 
 **La carte de l'agent immobilier**, sur ordinateur, tablette et téléphone.
 
-**Accès protégé** : un mot de passe est demandé à l'ouverture. Sans lui, la page ne contient qu'un texte chiffré (AES-256), illisible même dans le code source. Vos données (biens, acquéreurs, pige, notes) restent **sur votre appareil**.
+**Accès libre, avec un compte** : le premier écran est la création de compte (prénom, nom, e-mail) ; « Se déconnecter » y ramène. Vos données de travail (biens, acquéreurs, contacts, pige, notes) restent **sur votre appareil**. Photos de fond : Unsplash (licence Unsplash).
 
 ## Ce que fait Toc-Toc
 
