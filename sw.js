@@ -1,6 +1,6 @@
 /* Toc-Toc — service worker : appli disponible hors ligne + fonds de carte déjà vus en cache.
    La version change automatiquement à chaque construction (build.py). */
-const VERSION = 'tt-01df676477';
+const VERSION = 'tt-3fdcd9eebd';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './logo.svg', './icons/tt-icon-192.png', './icons/tt-icon-512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css'];
 const TILE_HOSTS = /data\.geopf\.fr\/wmts|tile\.openstreetmap\.org|arcgisonline\.com|opentopomap\.org|geoservices\.brgm\.fr/;
@@ -39,4 +39,11 @@ self.addEventListener('fetch', e => {
     return;
   }
   e.respondWith(caches.match(req).then(hit => { const net = fetch(req).then(r => put(req, r)).catch(() => hit); return hit || net; }));
+});
+
+// notification touchée : on ouvre (ou on remet devant) Toc-Toc sur le bon écran (#chat, #annonces…)
+self.addEventListener('notificationclick', e => {
+  e.notification.close(); const url = (e.notification.data && e.notification.data.url) || './';
+  e.waitUntil(self.clients.matchAll({type: 'window', includeUncontrolled: true}).then(cs => { const c = cs.find(x => x.url.split('#')[0] === url.split('#')[0]);
+    if (c){ c.postMessage({tt: 'go', hash: url.includes('#') ? '#' + url.split('#')[1] : ''}); return c.focus(); } return self.clients.openWindow(url); }));
 });
