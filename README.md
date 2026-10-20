@@ -1,0 +1,52 @@
+<p align="center"><img src="logo.svg" alt="Logo Toc-Toc" width="120"></p>
+
+<h1 align="center">Toc-Toc</h1>
+
+<p align="center"><i>powered by Lumerya Solution</i><br><b>Chaque maison a une histoire. Frappez, entrez.</b></p>
+
+<p align="center">
+  🔒 <b>Accès sur invitation</b> : l'application s'ouvre avec le lien d'accès personnel fourni par Lumerya Solution.
+</p>
+
+---
+
+**La carte de l'agent immobilier**, sur ordinateur, tablette et téléphone.
+
+**Accès sur invitation, avec un compte** : ouvrez votre lien d'accès, puis le premier écran est la création de compte (prénom, nom, e-mail) ; « Se déconnecter » y ramène. Vos données de travail (biens, acquéreurs, contacts, pige, notes) restent **sur votre appareil**. Photos de fond : Unsplash (licence Unsplash).
+
+## Ce que fait Toc-Toc
+
+- **Diagnostic d'un lieu**
+  - Parcelle cadastrale et surface, zone du PLU, servitudes (ABF…) et risques.
+  - Bâtiment et DPE.
+  - Raccordements : eau, gaz, fibre, électricité ; puits et nappe phréatique.
+  - Commodités à pied et temps de trajet.
+- **Prospection**
+  - Passoires thermiques F et G.
+  - Fonds de commerce (BODACC), toutes les agences immobilières, commerces.
+  - Copropriétés, friches.
+  - **Boîtes aux lettres par secteur** et **tournée de boîtage**.
+  - **Porte-à-porte guidé par GPS** avec **suivi de pige**.
+- **Annonces**
+  - Recherche filtrée sur Leboncoin, Bien'ici, SeLoger, PAP, Logic-Immo, Figaro, Notaires, enchères, biens de l'État.
+  - Vos annonces repérées sur la carte, avec leur bannière : bouton « + Toc-Toc », partage depuis l'appli du portail, e-mails d'alerte, flux de votre logiciel d'agence.
+- **Historique des ventes**
+  - Ventes notariées (DVF), prix au m² par secteur, évolution et carte des prix.
+  - Résidences principales et secondaires, propriétaires et locataires (INSEE).
+- **Mes biens et mes acquéreurs**
+  - Mandats avec adresse, étage, n° d'appartement, lot et propriétaire.
+  - Rapprochement automatique avec les acquéreurs, agenda et export vers votre calendrier.
+- **Outils**
+  - Estimation et avis de valeur, frais de notaire, honoraires (net vendeur ⇄ FAI), crédit, rentabilité locative.
+  - Mesure, carnet de visite, QR code.
+  - **Cartes anciennes et loupe du temps**, zone gardée **hors ligne**, français et anglais.
+
+## Installer sur le téléphone
+
+Ouvrez votre lien d'accès, puis :
+- **Android** : menu **Installer l'application**.
+- **iPhone** : **Partager** puis **Sur l'écran d'accueil**.
+
+---
+
+© Toc-Toc · Lumerya Solution — tous droits réservés. Données publiques : IGN, DGFiP, ADEME, INSEE, Géorisques, Hub'Eau, BODACC, Sirene, ANAH, Cerema, OpenStreetMap.
